@@ -1,7 +1,7 @@
 - Hi, I’m @Sanjeev067
-- 👀 I’m interested in Software Development
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Java Programming
-- 💞️ I’m looking to collaborate on Java Developers
+- 💞️ I’m looking to collaborate on Frontend Developers
 - 📫 How to reach me sanjeev110367@gmail.com
 
 <!---
