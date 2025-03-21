@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Java Programming
 - 💞️ I’m looking to collaborate on Java Developers
-- 📫 How to reach me dharun0348@gmail.com
+- 📫 How to reach me sanjeev110367@gmail.com
 
 <!---
 Sanjeev067/Sanjeev067 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
